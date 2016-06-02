@@ -1,0 +1,7 @@
+model\Registration.class
+connection\ConnectionDB.class
+controller\ControllerStart.class
+logic\LogicForward.class
+controller\ControllerRegistration.class
+dao\RegistrationDAO.class
+controller\ControllerHome.class
