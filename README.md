@@ -5,8 +5,8 @@ Practical task of Stohryn Dmytro on Eleks Internship (May 2016)
   
  * Name: Stohryn Dmytro
  * University: IFUL
- * Course: //todo: додайте сюди курс, на якому навчаєтесь
+ * Course: //todo: 3 rкурс
   
 ## Task Info
   
- //todo: додайте сюди завдання, яке ви виконуєте на практиці (текст завдання)
+ //todo: Реалізувати веб-додаток для перегляду розкладу занять.
