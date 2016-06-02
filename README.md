@@ -5,7 +5,7 @@ Practical task of Stohryn Dmytro on Eleks Internship (May 2016)
   
  * Name: Stohryn Dmytro
  * University: IFUL
- * Course: //todo: 3 rкурс
+ * Course: //todo: 3 курс
   
 ## Task Info
   
